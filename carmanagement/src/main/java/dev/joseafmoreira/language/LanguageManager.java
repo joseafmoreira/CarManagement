@@ -82,7 +82,6 @@ public class LanguageManager {
             Gson gson = new Gson();
             try (Reader reader = Files.newBufferedReader(Paths.get(LANGUAGE_FOLDER + "/" + code + ".json"))) {
                 Map<String, String> data = gson.fromJson(reader, Map.class);
-                data.remove("language.code");
                 data.remove("language.name");
                 data.remove("language.region");
                 language.setTranslations(data);
