@@ -1,10 +1,10 @@
 {
     "language.name": "Português",
     "language.region": "Portugal",
-    "fuel.regular_unleaded_petrol_95": "Gasolina 95 Simples",
-    "fuel.premium_unleaded_petrol_95": "Gasolina 95 +",
-    "fuel.premium_unleaded_petrol_98": "Gasolina 98 Simples",
-    "fuel.premium_plus_unleaded_petrol_98": "Gasolina 98 +",
+    "fuel.regular_unleaded_gasoline_95": "Gasolina 95 Simples",
+    "fuel.premium_unleaded_gasoline_95": "Gasolina 95 +",
+    "fuel.premium_unleaded_gasoline_98": "Gasolina 98 Simples",
+    "fuel.premium_plus_unleaded_gasoline_98": "Gasolina 98 +",
     "fuel.regular_diesel": "Gasóleo Simples",
     "fuel.premium_diesel": "Gasóleo +",
     "fuel.lpg": "GPL Auto"

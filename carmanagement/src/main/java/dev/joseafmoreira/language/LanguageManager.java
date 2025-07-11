@@ -16,7 +16,7 @@ import com.google.gson.Gson;
 
 public class LanguageManager {
     private static final String LANGUAGE_FOLDER = "./assets/languages";
-    private static final String DEFAULT_LANGUAGE_CODE = "en_us";
+    private static final String DEFAULT_LANGUAGE_CODE = "pt_pt";
     private final Logger languageLogger;
     private Map<String, Language> availableLanguages;
     private Language defaultLanguage;
